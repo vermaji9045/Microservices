@@ -1,0 +1,14 @@
+spring:
+  config:
+    active:
+      on-profile: "qa"
+build:
+  version: "1.0"
+
+loans:
+  message: "Welcome to the loans related Local QA APIs"
+  contactDetails:
+    name: "Sandeep-Developer"
+    email: "sk9366026@gmail.com"
+  onCallSupport:
+    - 8410172908
