@@ -1,0 +1,10 @@
+build:
+    version: "3.0"
+
+cards:
+    message: "Welcome to the Public Bank Cards related to local APIs"
+    contactDetails:
+      name: "Sandeep-Developer"
+      email: "sandeep@public.com"
+    onContactSupport:
+      - 9045907164

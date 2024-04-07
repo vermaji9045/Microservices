@@ -1,0 +1,12 @@
+
+
+build:
+  version: "2.0"
+
+accounts:
+  message: "Welcome to Public Bank accounts related local QA APIs "
+  contactDetails:
+    name: "Sandeep - Developer"
+    email: "sandeep@publicbank.com"
+  onCallSupport:
+    - (555) 555-1234

@@ -1,0 +1,12 @@
+
+build:
+  version: "2.0"
+
+cards:
+  message: "Welcome to Publicank accounts related to QA local APIs "
+  contactDetails:
+    name: "Sandeep - Developer"
+    email: "sandeep@publicbank.com"
+  onCallSupport:
+    - (555) 555-1234
+    - (555) 523-1345

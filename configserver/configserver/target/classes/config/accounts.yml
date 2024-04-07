@@ -1,0 +1,12 @@
+
+build:
+  version: "3.0"
+
+accounts:
+  message: "Welcome to Public Bank accounts related local APIs "
+  contactDetails:
+    name: "Bhoomi - Sales Manager"
+    email: "bhoomi@eazybank.com"
+  onCallSupport:
+    - (555) 555-1234
+
